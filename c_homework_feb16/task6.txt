@@ -1,0 +1,4 @@
+mkdir resources
+cd resources 
+touch file1.txt file2.pdf file3.md
+ls *.txt *.md
